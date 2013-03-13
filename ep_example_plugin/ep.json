@@ -6,7 +6,8 @@
         "eejsBlock_styles": "ep_example_plugin/styles"
       },
       "client_hooks": {
-        "postAceInit": "ep_example_plugin/postAceInit"
+        "aceGetFilterStack": "ep_example_plugin/static/js/index:aceGetFilterStack",
+        "aceCreateDomLine": "ep_example_plugin/static/js/index:aceCreateDomLine",
       }
     }
   ]
