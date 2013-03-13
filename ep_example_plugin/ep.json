@@ -7,7 +7,7 @@
       },
       "client_hooks": {
         "aceGetFilterStack": "ep_example_plugin/static/js/index:aceGetFilterStack",
-        "aceCreateDomLine": "ep_example_plugin/static/js/index:aceCreateDomLine",
+        "aceCreateDomLine": "ep_example_plugin/static/js/index:aceCreateDomLine"
       }
     }
   ]
