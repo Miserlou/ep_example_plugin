@@ -1,0 +1,9 @@
+{
+  "name": "ep_example_plugin",
+  "version": "0.0.1",
+  "description": "Example Etherpad Lite Plugin",
+  "author": "Miserlou (Rich Jones) <rich@openwatch.net>",
+  "contributors": [],
+  "dependencies": {},
+  "engines": { "node": ">= 0.6.0"}
+}
