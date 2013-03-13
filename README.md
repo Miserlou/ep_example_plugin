@@ -10,4 +10,6 @@ This project shows three important things one may wish to do while creating a pl
 * Using client-side hooks to change client-side code execution
 * Manipulating the actual contents of a pad based on the line content.
 
-https://github.com/ether/etherpad-lite/wiki/Creating-a-plugin
+## External Resources
+
+* https://github.com/ether/etherpad-lite/wiki/Creating-a-plugin
